@@ -1,2 +1,2 @@
 # Adblocking
-Ad blocking domain lists list for use with Diversion
+Ad blocking domain lists for use with Diversion

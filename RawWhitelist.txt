@@ -35,7 +35,15 @@ googleadservices.com
 tags.tiqcdn.com
 usage.trackjs.com
 
-# Unbreak whitelist
+# SmartThings API
+api.smartthings.com
+graph.api.smartthings.com
+device-mqtt.smartthings.com
+device-mqtt.us.smartthings.com
+device-mqtt.eu.smartthings.com
+device-mqtt.ap.smartthings.com
+
+# Whitelist
 choices.trustarc.com
 pinpoint.us-east-1.amazonaws.com
 aax-us-iad.amazon.com

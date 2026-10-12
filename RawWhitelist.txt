@@ -30,7 +30,7 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 # Custom whitelist domains
 app.adjust.com
 awin1.com
-bet.bestodds.com
+e-eu.customeriomail.com
 googleadservices.com
 tags.tiqcdn.com
 usage.trackjs.com

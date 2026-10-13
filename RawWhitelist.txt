@@ -32,6 +32,7 @@ app.adjust.com
 awin1.com
 e-eu.customeriomail.com
 googleadservices.com
+r.openai.com
 tags.tiqcdn.com
 usage.trackjs.com
 
